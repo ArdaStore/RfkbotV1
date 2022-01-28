@@ -26,7 +26,7 @@ Heroku Buildpack
 
 Tutorial YouTube
 
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
+[![YouTube](https://img.shields.io/badge/YouTube-Video-cyan)](https://youtu.be/DzNIL45qHaM)
 ## FOR TERMUX/UBUNTU/SSH USER
 
 ```bash
